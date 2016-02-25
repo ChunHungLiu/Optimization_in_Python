@@ -48,7 +48,7 @@ All tutorial content can be obtained from this repository either with
 `git, or by downloading the repository content as a zip file.  If you use
 git, you can clone this repostory with::
 
-    $ git clone https://github.com/mmckerns/tutmom.git
+    $ git clone https://github.com/rouseguy/Optimization_in_Python.git 
 
 
 or, download and unzip the zipfile.
