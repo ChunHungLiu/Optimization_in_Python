@@ -26,7 +26,6 @@ has = dict(
     FuncDesigner='0.56',
     openopt='0.56',
     cvxopt='1.1.7',
-    swiglpk='1.2.10',
     optlang='0.2.17',
     cvxpy='0.3.6',
     pulp='1.6.1',
