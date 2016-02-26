@@ -102,6 +102,14 @@ and optionally::
 Installation
 --------------
 
+*Anaconda strongly advised *
+Please install those packages that aren't available with default anaconda installation.
+To check if you have the packages already installed or what additional packages you need to install, either run
+`python check_env.py`
+
+or if you prefer to check manually, run 
+`pip freeze`
+
 All packages can be installed with `pip`::
 
     >$ pip install setuptools
@@ -128,9 +136,6 @@ and optionally::
 The `pip` installs of `numpy`, `matplotlib`, and `scipy` often fail.
 A more stable choice for installing these three packages is to use a
 scientific python distribution such as `canopy` or `anaconda`. 
-
-**Anaconda strongly advised **
-
 
 
 The following steps were used by the tutorial author to test on Windows:
