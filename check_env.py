@@ -23,6 +23,12 @@ has = dict(
     sympy='0.6.7',
     ppft='1.6.4.5',
     multiprocess='0.70.3',
+    FuncDesigner='0.56',
+    openopt='0.56',
+    cvxopt='1.1.7',
+    swiglpk='1.2.10',
+    optlang='0.2.17',
+    cvxpy='0.3.6',
     # examples
     matplotlib='0.91',
     # optional
