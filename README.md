@@ -130,11 +130,11 @@ All packages can be installed with `pip`::
     
 If you’re on OS X, swig and GLPK can easily be installed with homebrew.
 
-`brew install swig glpk`
+    >$  brew install swig glpk
 
 If you’re using ubuntu linux, you can install swig and GLPK using apt-get.
 
-`apt-get install glpk-utils libglpk-dev swig`
+    >$ apt-get install glpk-utils libglpk-dev swig
 
 
 and optionally::
