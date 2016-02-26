@@ -84,6 +84,12 @@ the following packages must be installed::
     klepto >= 0.1.1,
     pathos >= 0.2a1.dev0,
     mystic >= 0.2a2.dev0
+    FuncDesigner >= 0.56
+    openopt >= 0.56
+    cvxopt >= 1.1.7
+    swiglpk >= 1.2.10
+    optlang >= 0.2.17
+    cvxpy >= 0.3.6
 
 
 and optionally::
@@ -104,7 +110,13 @@ All packages can be installed with `pip`::
     >$ pip install git+https://github.com/uqfoundation/mystic.git@master
     >$ pip install matplotlib
     >$ pip install scipy
-
+    >$ pip install FuncDesigner
+    >$ pip install openopt
+    >$ pip install cvxopt
+    >$ pip install swiglpk
+    >$ pip install optlang
+    >$ pip install cvxpy
+    
 
 and optionally::
 
@@ -113,7 +125,9 @@ and optionally::
 
 The `pip` installs of `numpy`, `matplotlib`, and `scipy` often fail.
 A more stable choice for installing these three packages is to use a
-scientific python distribution such as `canopy` or `anaconda`.
+scientific python distribution such as `canopy` or `anaconda`. 
+
+**Anaconda strongly advised **
 
 
 
