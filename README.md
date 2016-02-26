@@ -87,7 +87,6 @@ the following packages must be installed::
     FuncDesigner >= 0.56
     openopt >= 0.56
     cvxopt >= 1.1.7
-    swiglpk >= 1.2.10
     optlang >= 0.2.17
     cvxpy >= 0.3.6
     PuLP >= 1.6.1
@@ -123,7 +122,6 @@ All packages can be installed with `pip`::
     >$ pip install FuncDesigner
     >$ pip install openopt
     >$ pip install cvxopt
-    >$ pip install swiglpk
     >$ pip install optlang
     >$ pip install cvxpy
     >$ pip install pulp
@@ -164,7 +162,6 @@ The following steps were used by the tutorial author to test on Windows:
     >$ pip install FuncDesigner
     >$ pip install openopt
     >$ pip install cvxopt
-    >$ pip install swiglpk
     >$ pip install optlang
     >$ pip install cvxpy
     >$ pip install pulp
