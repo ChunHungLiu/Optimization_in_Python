@@ -103,6 +103,7 @@ Installation
 --------------
 
 *Anaconda strongly advised *
+
 Please install those packages that aren't available with default anaconda installation.
 To check if you have the packages already installed or what additional packages you need to install, either run
 `python check_env.py`
