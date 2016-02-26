@@ -102,7 +102,7 @@ and optionally::
 Installation
 --------------
 
-*Anaconda strongly advised *
+<b> Anaconda strongly advised </b>
 
 Please install those packages that aren't available with default anaconda installation.
 To check if you have the packages already installed or what additional packages you need to install, either run
