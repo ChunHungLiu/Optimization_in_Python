@@ -153,6 +153,12 @@ The following steps were used by the tutorial author to test on Windows:
     #   regedit HKEY_CLASSES_ROOT\py_auto_file\shell\open\command
     >$ pip install git+https://github.com/uqfoundation/pathos.git@master
     >$ pip install git+https://github.com/uqfoundation/mystic.git@master
+    >$ pip install FuncDesigner
+    >$ pip install openopt
+    >$ pip install cvxopt
+    >$ pip install swiglpk
+    >$ pip install optlang
+    >$ pip install cvxpy
 
 
 
