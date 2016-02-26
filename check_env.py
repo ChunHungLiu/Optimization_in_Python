@@ -29,6 +29,7 @@ has = dict(
     optlang='0.2.17',
     cvxpy='0.3.6',
     pulp='1.6.1',
+    swiglpk='0.1.0',
     # examples
     matplotlib='0.91',
     # optional
